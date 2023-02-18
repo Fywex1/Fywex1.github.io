@@ -1,6 +1,18 @@
-# My GitHub Page
+<h1 align="center">My GitHub Page</h1>
 
-This is my personal GitHub page, where I showcase my projects and skills.
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="made-with-Markdown">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1234567/12345678-image-url-here.jpg" alt="Photo" width="150" height="150">
+</p>
+
+<p align="center">
+  <a href="#about-me">About Me</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#contact">Contact</a>
+</p>
 
 ## About Me
 
@@ -18,6 +30,21 @@ Here are some of the projects I've worked on recently:
 
 You can reach me at myemail@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
 
-## Site Design
+---
 
-The site design will have a black and white background, with an "about me" card featuring a photo and brief bio. Stay tuned for more updates!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1234567/12345678-image-url-here.jpg" alt="Photo" width="150" height="150">
+</p>
+
+<p align="center">
+  Made with :heart: by Your Name
+</p>
+
+<style>
+  body {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+</style>
+
